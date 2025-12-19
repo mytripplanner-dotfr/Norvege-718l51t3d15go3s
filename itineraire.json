@@ -1,0 +1,204 @@
+{
+  "pays": "Norvège",
+  "drapeau": "🇳🇴",
+  "symbole": "🏔️",
+  "titre": "L'Essence Norvégienne: Fjords, Vikings et Design Urbain",
+  "budget_total": "2450€",
+  "duree": "5 jours",
+  "temps_vol": "10h depuis Mass city, etats unis avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Oslo et Premiers Pas Nordiques",
+      "legende": "Après un long voyage, la capitale norvégienne vous accueille avec sa douceur de vivre. Prenez le temps de vous installer et de vous imprégner de l'atmosphère unique d'Oslo en flânant le long de son front de mer moderne, un lieu idéal pour une première découverte en toute quiétude. Laissez-vous charmer par l'architecture contemporaine et l'air frais scandinave.",
+      "lieu": "Oslo",
+      "activites": [
+        "🛬 <strong>Arrivée et installation</strong>: Atterrissez à l'aéroport d'Oslo Gardermoen (OSL), prenez le train express Flytoget jusqu'au centre-ville et rejoignez votre hôtel 3 étoiles pour vous rafraîchir.",
+        "🚶‍♂️ <strong>Balade à Aker Brygge</strong>: Promenez-vous le long des quais animés d'Aker Brygge, ancien chantier naval transformé en quartier branché avec restaurants, boutiques et vue sur l'Oslofjord."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le Flytoget est le moyen le plus rapide pour rejoindre le centre d'Oslo (environ 20 minutes). Les billets peuvent être achetés aux bornes ou via l'application."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Première impression",
+          "texte": "Aker Brygge est parfait pour une première immersion douce, offrant une vue imprenable sur l'eau et l'Opéra d'Oslo."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Cœur Historique et Culturel d'Oslo",
+      "legende": "Plongez au cœur de l'histoire et de la culture norvégienne en explorant les sites emblématiques d'Oslo. Du faste royal à l'architecture audacieuse, cette journée vous offre un aperçu riche et varié de la capitale. Laissez-vous guider par les récits du passé et la modernité qui cohabitent harmonieusement.",
+      "lieu": "Oslo",
+      "activites": [
+        "👑 <strong>Visite du Palais Royal</strong>: Observez la relève de la garde (à 13h30) et explorez les jardins du Palais Royal, résidence officielle du monarque norvégien, pour une touche d'histoire et de grandeur.",
+        "🎨 <strong>Exploration du Musée National</strong>: Découvrez les trésors artistiques et culturels de la Norvège, incluant des œuvres majeures comme \"Le Cri\" de Munch, dans ce musée récemment rénové et impressionnant.",
+        "🎶 <strong>Découverte de l'Opéra d'Oslo</strong>: Admirez l'architecture unique de l'Opéra, qui semble émerger de l'eau, et montez sur son toit pour une vue panoramique sur la ville et le fjord."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "À pied",
+          "texte": "Ces trois sites sont relativement proches les uns des autres, permettant une exploration agréable à pied."
+        },
+        {
+          "symbole": "🎟️",
+          "titre": "Oslo Pass",
+          "texte": "Envisagez l'achat d'un Oslo Pass pour des entrées gratuites aux musées et l'utilisation illimitée des transports en commun."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Sur les Traces des Vikings et l'Héritage Maritime",
+      "legende": "Embarquez pour un voyage dans le temps sur la presqu'île de Bygdøy, véritable écrin de musées dédiés à l'histoire maritime et aux explorations polaires. Cette journée vous transportera à l'époque des Vikings et des grands explorateurs, offrant une perspective fascinante sur le courage et l'ingéniosité norvégienne. Une immersion culturelle profonde vous attend.",
+      "lieu": "Oslo (Presqu'île de Bygdøy)",
+      "activites": [
+        "⛵ <strong>Musée des Bateaux Vikings (temporairement fermé)</strong>: Bien que le musée original soit en rénovation, le Musée d'Histoire Culturelle d'Oslo expose des artefacts vikings essentiels, offrant un aperçu de leur ingénierie navale et de leur culture.",
+        "🧊 <strong>Musée du Fram</strong>: Montez à bord du navire polaire Fram, le plus solide jamais construit, et revivez les expéditions héroïques d'Amundsen et Nansen vers les pôles, une expérience immersive et éducative.",
+        "🗺️ <strong>Musée du Kon-Tiki</strong>: Découvrez l'incroyable expédition de Thor Heyerdahl et son radeau Kon-Tiki, qui a traversé le Pacifique, prouvant les anciennes routes de migration, une histoire de détermination humaine."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès à Bygdøy",
+          "texte": "Prenez le bus 30 depuis le centre d'Oslo pour rejoindre la presqu'île de Bygdøy, le trajet est pittoresque et rapide."
+        },
+        {
+          "symbole": "⚠️",
+          "titre": "Info Musée Viking",
+          "texte": "Le Musée des Bateaux Vikings est fermé pour rénovation jusqu'en 2026. Ses collections majeures sont visibles au Musée d'Histoire Culturelle."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌳",
+      "titre": "Art en Plein Air et Panoramas Urbains",
+      "legende": "Cette journée vous invite à explorer les poumons verts d'Oslo et à admirer des vues imprenables sur la ville. Entre l'art monumental de Vigeland et l'emblématique tremplin de Holmenkollen, vous découvrirez une facette plus naturelle et sportive de la capitale. Préparez-vous à des paysages à couper le souffle et des œuvres d'art uniques.",
+      "lieu": "Oslo",
+      "activites": [
+        "🗿 <strong>Parc de sculptures de Vigeland</strong>: Flânez dans ce parc unique au monde, abritant plus de 200 sculptures en bronze, granit et fer forgé de Gustav Vigeland, explorant le cycle de la vie humaine avec une intensité émotionnelle rare.",
+        "⛷️ <strong>Tremplin de saut à ski de Holmenkollen</strong>: Visitez ce site iconique, offrant non seulement une vue spectaculaire sur Oslo et le fjord, mais aussi un musée du ski fascinant retraçant l'histoire de ce sport national norvégien."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚇",
+          "titre": "Transport",
+          "texte": "Le tramway (ligne 12) dessert le Parc Vigeland. Pour Holmenkollen, prenez le métro (ligne 1) jusqu'à la station Holmenkollen."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Meilleure vue",
+          "texte": "La plateforme d'observation du tremplin de Holmenkollen offre l'une des plus belles vues panoramiques sur Oslo."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de vos dernières heures à Oslo pour une immersion dans l'art moderne ou une dernière balade dans un quartier branché. C'est l'occasion de ramener un souvenir ou de savourer un dernier café norvégien avant de prendre le chemin de l'aéroport. Gardez en mémoire les paysages et l'ambiance unique de cette ville nordique.",
+      "lieu": "Oslo",
+      "activites": [
+        "🖼️ <strong>Visite du Musée Munch</strong>: Explorez la collection la plus complète des œuvres d'Edvard Munch, y compris plusieurs versions de \"Le Cri\", dans son nouveau bâtiment spectaculaire à Bjørvika.",
+        "🛍️ <strong>Shopping et souvenirs</strong>: Flânez dans le quartier de Grünerløkka pour ses boutiques indépendantes, cafés branchés et galeries d'art, ou trouvez des souvenirs uniques le long de Karl Johans gate avant votre départ."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez environ 30-40 minutes pour le trajet retour vers l'aéroport d'Oslo Gardermoen (OSL) depuis le centre-ville."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Idée souvenir",
+          "texte": "Les pulls norvégiens, les fromages locaux ou les chocolats Freia sont d'excellents souvenirs à rapporter."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1100€/pers (vol aller-retour en classe économique depuis Mass city, etats unis vers Oslo)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (Flytoget, Oslo Pass 72h pour bus/tram/métro et ferry vers Bygdøy)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "400€/pers (5 jours, repas \"moyens\" incluant quelques restaurants et repas plus simples)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "600€/pers (4 nuits en hôtel 3 étoiles à Oslo, base chambre double partagée)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "200€/pers (entrées musées, tremplin Holmenkollen, Oslo Pass inclus)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Norvège est un pays avec une population relativement faible (environ 5,5 millions d'habitants) mais une qualité de vie très élevée. Les Norvégiens sont souvent réservés mais très accueillants.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La Norvège est une monarchie constitutionnelle. Le pays est célèbre pour ses fjords spectaculaires, ses aurores boréales et son soleil de minuit. C'est l'un des pays les plus chers du monde.",
+      "symbole": "👑"
+    },
+    {
+      "titre": "Info insolite: Le concept de \"koselig\" (prononcé \"kouseli\") est l'équivalent norvégien du \"hygge\" danois, décrivant une atmosphère de confort, de chaleur et de convivialité.",
+      "symbole": "🕯️"
+    },
+    {
+      "titre": "La monnaie est la Couronne Norvégienne (NOK). Les cartes de crédit sont acceptées partout, même pour de petits montants. Le pourboire n'est pas obligatoire mais apprécié.",
+      "symbole": "💳"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme en Norvège",
+      "titre": "Visit Norway",
+      "url": "https://www.visitnorway.fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Guide officiel de la ville d'Oslo",
+      "titre": "Visit Oslo",
+      "url": "https://www.visitoslo.com/fr/",
+      "symbole": "🏙️"
+    },
+    {
+      "legende": "Informations sur les transports publics à Oslo",
+      "titre": "Ruter (Transports Oslo)",
+      "url": "https://ruter.no/en/",
+      "symbole": "🚇"
+    }
+  ]
+}
